@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "title": "Канал Иванова",
+      "chat_id": -1001234567890,
+      "invite_link": "https://t.me/joinchat/AAAAAEexamplelink",
+      "tariffs": {
+        "7": "https://payment.link/ivanov7",
+        "30": "https://payment.link/ivanov30",
+        "90": "https://payment.link/ivanov90"
+      }
+    }
+    // Добавь здесь другие каналы по аналогии
+  ]
+}
